@@ -7,12 +7,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # My Approach :
  I first create a react-native cli app.
 
- I researched on ombd api and how can i utitlise it completely
+ I researched on ombd api and how can i utitlise it completely,
  Started with the app created navigations to handle the routes .
  install packages like asyncstorage and axios to help store and fetch data .
  Made a search bar and use ombd api key to make a search query functionality which searches relevant movie based on the word .
 show the data using the flatlist .
- #New data is loaded once you reached the limit ,(load more functionality)
+ #New data is loaded once you reached the limit ,(load more functionality),
 You are now navigated to movie details screen where data is whon to you .
  Add to favourite button is there to added the movie to the asyncstorage .
 That data is fetched ion the Favourite screen .
