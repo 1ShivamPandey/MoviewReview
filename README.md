@@ -2,6 +2,24 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+
+
+# My Approach :
+1: I first create a react-native cli app.
+2: I researched on ombd api and how can i utitlise it completely
+3: Started with the app created navigations to handle the routes .
+4: install packages like asyncstorage and axios to help store and fetch data .
+5: Made a search bar and use ombd api key to make a search query functionality which searches relevant movie based on the word .
+6: show the data using the flatlist .
+7: #New data is loaded once you reached the limit ,(load more functionality)
+8:You are now navigated to movie details screen where data is whon to you .
+9: Add to favourite button is there to added the movie to the asyncstorage .
+10:That data is fetched ion the Favourite screen .
+
+
+
+
+
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 ## Step 1: Start Metro
@@ -95,3 +113,9 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+
+
+
